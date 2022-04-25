@@ -1,0 +1,7 @@
+baseURL = 'http://nciavarella.me/'
+languageCode = 'en-us'
+title = 'nciavarella.me'
+theme = 'loveit'
+
+[params]
+  version = "0.2.X"

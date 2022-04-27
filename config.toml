@@ -6,6 +6,9 @@ theme = 'loveit'
 [params]
   version = "0.2.X"
 
+[author]
+    name = "Niccolò Ciavarella"
+
  # [[menu.main]]
  #    identifier = "posts"
  #    name = "Posts"

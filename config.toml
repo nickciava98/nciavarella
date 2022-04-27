@@ -5,3 +5,8 @@ theme = 'loveit'
 
 [params]
   version = "0.2.X"
+
+ [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts/"

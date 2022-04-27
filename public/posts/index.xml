@@ -1,11 +1,9 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>nciavarella.me</title>
-        <link>http://nciavarella.me/</link>
-        <description>nciavarella.me</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2022 11:09:43 &#43;0200</lastBuildDate>
-            <atom:link href="http://nciavarella.me/index.xml" rel="self" type="application/rss+xml" />
-        <item>
+        <title>Tutti Articoli - nciavarella.me</title>
+        <link>http://nciavarella.me/posts/</link>
+        <description>Tutti Articoli | nciavarella.me</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2022 11:09:43 &#43;0200</lastBuildDate><atom:link href="http://nciavarella.me/posts/" rel="self" type="application/rss+xml" /><item>
     <title>Chi sono?</title>
     <link>http://nciavarella.me/posts/chi-sono/</link>
     <pubDate>Wed, 27 Apr 2022 11:09:43 &#43;0200</pubDate>

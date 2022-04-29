@@ -7,6 +7,7 @@ theme = 'loveit'
 [params]
   version = "0.2.X"
   favicon = "/img/favicon.ico"
+  locale = "it-IT"
 
 [author]
     name = "Niccolò Ciavarella"

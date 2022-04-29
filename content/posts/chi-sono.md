@@ -4,11 +4,8 @@ date: 2022-04-27T11:09:43+02:00
 draft: false
 ---
 
-Niccolò Ciavarella
-==================
-
 Chi sono
---------
+========
 
 Sono un tecnico informatico a cui piace creare software e contenuti web.
 Negli anni ho avuto la fortuna di sviluppare e mantenere sistemi robotici ed elettronici.

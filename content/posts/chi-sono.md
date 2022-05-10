@@ -4,9 +4,6 @@ date: 2022-04-27T11:09:43+02:00
 draft: false
 ---
 
-Chi sono
-========
-
 Sono un tecnico informatico a cui piace creare software e contenuti web.
 Negli anni ho avuto la fortuna di sviluppare e mantenere sistemi robotici ed elettronici.
 Nel 2021 ho deciso di aprire una Partita IVA per diventare freelance.

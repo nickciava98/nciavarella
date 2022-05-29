@@ -13,6 +13,19 @@ theme = 'loveit'
     name = "Niccolò Ciavarella"
 
  [[menu.main]]
-    identifier = "cv"
+    identifier = "info"
     name = "Info"
-    url = "/menu/cv/"
+    url = "/menu/info"
+    weight = 1
+
+[[menu.main]]
+    identifier = "listino"
+    name = "Listino"
+    url = "/menu/listino"
+    weight = 2
+
+[[menu.main]]
+    identifier = "contatti"
+    name = "Contatti"
+    url = "/posts/contatti"
+    weight = 3

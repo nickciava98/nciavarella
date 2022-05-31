@@ -11,18 +11,20 @@ Listino prezzi
 
 | Tipo | Costo per ora | Costo per giorno |
 | ---- | ------------- | ---------------- |
-| Programmazione software | € 9,90 | € 54,90 |
-| Manutenzione e assistenza | € 7,90 | € 44,90 |
+| Programmazione software | € 12,90 | € 64,90 |
+| Manutenzione e assistenza | € 9,90 | € 49,90 |
 
 ### Per interventi specifici o collaborazioni di media/lunga durata:
 
 | Pacchetto ore | Costo |
 | ------------- | ----- |
-| 10 ore | € 99,90 |
-| 25 ore | € 224,90 |
-| 50 ore | € 449,90 |
-| 100 ore | € 899,90 |
-| 200 ore | € 1799,90 |
+| 10 ore | € 119,90 |
+| 25 ore | € 299,90 |
+| 50 ore | € 599,90 |
+| 100 ore | € 999,90 |
+| 200 ore | € 1899,90 |
+
+Per pacchetti ore più cospicui o personalizzati non esitare a [contattarmi]({{< ref "/posts/contatti" >}} "Contatti").
 
 ### Info e fatturazione
 

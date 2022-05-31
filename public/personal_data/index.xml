@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Personal_data on nciavarella.me</title>
+    <link>http://nciavarella.me/personal_data/</link>
+    <description>Recent content in Personal_data on nciavarella.me</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 30 May 2022 15:24:17 +0200</lastBuildDate><atom:link href="http://nciavarella.me/personal_data/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pagamenti</title>
+      <link>http://nciavarella.me/personal_data/pagamenti/</link>
+      <pubDate>Mon, 30 May 2022 15:24:17 +0200</pubDate>
+      
+      <guid>http://nciavarella.me/personal_data/pagamenti/</guid>
+      <description>Info per i pagamenti    Banca IBAN BIC/SWIFT Numero carta Scadenza CVV PIN     BBVA IT 30 S 03576 01601 010000088709 BBVAITMM 5179 0900 0011 4855 11/28 dinamico 6314   BancoPosta IT 78 H 07601 01000 001054985187 BPPIITRRXXX 5355 7434 4951 4087 04/26 968 24787   PostePay Non presente Non presente 4023 6010 1027 9743 10/26 600 03943   Poste Italiane Libretti IT 47 R 07601 03384 000050338660 BPPIITRRXXX 82643698 12/23 Non presente    buddybank by UniCredit IT 58 I 02008 09500 000420149780 UNCRITMMXXX 5355 5226 3235 8019 03/24 034 44427   YAP by Nexi Non presente Non presente 5330 0480 3444 3399 10/23 562 4675   Revolut LT 67 3 25000 48096 35417 REVOLT21 5354 5649 9064 5992 07/26 198 1238   FINOM business IT 34 J 03665 01600 693408600700 SOBKITM2XXX 4349 7170 1133 1650 04/25 696 Non presente    </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -27,5 +27,5 @@ theme = 'loveit'
 [[menu.main]]
     identifier = "contatti"
     name = "Contatti"
-    url = "/posts/contatti"
+    url = "/menu/contatti"
     weight = 3

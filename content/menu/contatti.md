@@ -13,6 +13,3 @@ Puoi contattarmi attraverso questi canali:
 * [Inviandomi una mail](mailto:niccolo.ciavarella@email.com)
 
 [Puoi anche venirmi a trovare, previo appuntamento, a casa mia!](https://goo.gl/maps/VtGP3vzKpfs1mSwZ7)
-
-<!-- contacts -->
-{{- partial "contacts.html" . -}}

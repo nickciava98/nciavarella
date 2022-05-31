@@ -23,7 +23,7 @@
       
       <guid>http://nciavarella.me/menu/contatti/</guid>
       <description>Puoi contattarmi attraverso questi canali:  Chiamandomi sul mio numero Scrivendomi su WhatsApp o Telegram Attraverso Facebook, Instagram, Twitter o LinkedIn Inviandomi una mail  Puoi anche venirmi a trovare, previo appuntamento, a casa mia!
-{{- partial &amp;ldquo;contacts.html&amp;rdquo; . -}}</description>
+ </description>
     </item>
     
     <item>

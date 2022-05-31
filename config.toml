@@ -8,6 +8,7 @@ theme = 'loveit'
   version = "0.2.X"
   favicon = "/img/favicon.ico"
   locale = "it-IT"
+   googleMapsAPIKey = "AIzaSyD734FF2PEKVS4E099p8J-T_4tQr5M009A"
 
 [author]
     name = "Niccolò Ciavarella"

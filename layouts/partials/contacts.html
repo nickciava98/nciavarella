@@ -1,14 +1,33 @@
-<form name="contact" method="POST" data-netlify="true">
-    <p>
-        <label>Il tuo nome: <input type="text" name="name" /></label>
-    </p>
-    <p>
-        <label>La tua email: <input type="email" name="email" /></label>
-    </p>
-    <p>
-        <label>Messaggio: <textarea name="message"></textarea></label>
-    </p>
-    <p>
-        <button type="submit">Invia</button>
-    </p>
-</form>
+<div class="contacts widget">
+    <form name="contacts" method="POST"
+            data-netlify="true"
+            netlify-honeypot="bot-field">
+        <input class="form-control valid"
+                name="name"
+                id="name"
+                type="text"
+                onfocus="this.placeholder = ''"
+                onblur="this.placeholder = 'Il tuo nome'"
+                placeholder="Scrivi il tuo nome"
+        />
+
+        <input
+            class="form-control valid"
+            name="email"
+            id="email"
+            type="email"
+            onfocus="this.placeholder = ''"
+            onblur="this.placeholder = 'La tua email'"
+            placeholder="Scrivi la tua email"
+        />
+
+        <input class="d-none"
+            name="bot-field"
+            placeholder="Questo è uno spam detector, non compilarlo se sei un umano"
+        />
+
+        <button type="submit" class="button">
+            Invia
+        </button>
+    </form>
+</div>

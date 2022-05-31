@@ -22,7 +22,8 @@
       <pubDate>Tue, 24 May 2022 17:14:41 +0200</pubDate>
       
       <guid>http://nciavarella.me/menu/contatti/</guid>
-      <description>Puoi contattarmi attraverso questi canali:  Chiamandomi sul mio numero Scrivendomi su WhatsApp o Telegram Attraverso Facebook, Instagram, Twitter o LinkedIn Inviandomi una mail  Puoi anche venirmi a trovare, previo appuntamento, a casa mia!</description>
+      <description>Puoi contattarmi attraverso questi canali:  Chiamandomi sul mio numero Scrivendomi su WhatsApp o Telegram Attraverso Facebook, Instagram, Twitter o LinkedIn Inviandomi una mail  Puoi anche venirmi a trovare, previo appuntamento, a casa mia!
+{{- partial &amp;ldquo;contacts.html&amp;rdquo; . -}}</description>
     </item>
     
     <item>

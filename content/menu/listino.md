@@ -24,7 +24,7 @@ Listino prezzi
 | 100 ore | € 999,90 |
 | 200 ore | € 1899,90 |
 
-Per pacchetti ore più cospicui o personalizzati non esitare a [contattarmi]({{< ref "/posts/contatti" >}} "Contatti").
+Per pacchetti ore più cospicui o personalizzati non esitare a [contattarmi]({{< ref "/menu/contatti" >}} "Contatti").
 
 ### Info e fatturazione
 
@@ -34,4 +34,4 @@ Tutti i pagamenti sono tracciati e viene preferito l'uso dei bonifici bancari o 
 
 Tutti gli altri metodi di pagamento non vengono accettati, per via delle vigenti norme anti-riciclaggio e per il benessere fiscale di tutti.
 
-Per ulteriori informazioni recarsi alla pagina [Contatti]({{< ref "/posts/contatti" >}} "Contatti")
+Per ulteriori informazioni recarsi alla pagina [Contatti]({{< ref "/menu/contatti" >}} "Contatti")

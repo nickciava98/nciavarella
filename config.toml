@@ -1,4 +1,4 @@
-baseURL = 'http://nciavarella.me/'
+baseURL = 'https://nciavarella.me/'
 languageCode = 'en-us'
 defaultContentLanguage = 'it'
 title = 'nciavarella.me'

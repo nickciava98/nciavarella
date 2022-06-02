@@ -1,31 +1,31 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>nciavarella.me</title>
-        <link>http://nciavarella.me/</link>
+        <link>https://nciavarella.me/</link>
         <description>nciavarella.me</description>
         <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 29 May 2022 14:37:51 &#43;0200</lastBuildDate>
-            <atom:link href="http://nciavarella.me/index.xml" rel="self" type="application/rss+xml" />
+            <atom:link href="https://nciavarella.me/index.xml" rel="self" type="application/rss+xml" />
         <item>
     <title>PL73</title>
-    <link>http://nciavarella.me/posts/pl73/</link>
+    <link>https://nciavarella.me/posts/pl73/</link>
     <pubDate>Mon, 23 May 2022 09:24:56 &#43;0200</pubDate>
     <author>Autore</author>
-    <guid>http://nciavarella.me/posts/pl73/</guid>
+    <guid>https://nciavarella.me/posts/pl73/</guid>
     <description><![CDATA[Cos&rsquo;è PL73? Negli ultimi giorni ho voluto condividere sui miei social un post, non molto comprensibile dove raccontavo qualcosa sulla creazione di un nuovo linguaggio. Ma cosa significa questo? Per me significa molto, dato che sin da bambino ho avuto la possibilità di studiare la &ldquo;logica dei computer&rdquo;, a tratti semplice, ma assolutamente complessa.
 Il vero divertimento è dato sicuramente dalla matematica che c&rsquo;è dietro e da come un calcolatore è in grado di elaborare le informazioni e di come uno sviluppatore (attraverso un linguaggio di programmazione, ndr) può impartire comandi da far eseguire con lo scopo di risolvere un problema noto.]]></description>
 </item><item>
     <title>24</title>
-    <link>http://nciavarella.me/posts/24/</link>
+    <link>https://nciavarella.me/posts/24/</link>
     <pubDate>Tue, 10 May 2022 12:40:54 &#43;0200</pubDate>
     <author>Autore</author>
-    <guid>http://nciavarella.me/posts/24/</guid>
+    <guid>https://nciavarella.me/posts/24/</guid>
     <description><![CDATA[Oggi sono 24, sembrano pochi, ma credetemi, sono tanti. In ventiquattro anni credo di aver fatto tanto e di non aver fatto niente, questo perché assodato il fatto che ho avuto la possibilità di vivere esperienze significative, comunque in ventiquattro anni non si può pretendere di fare molto. Nell&rsquo;ultimo anno sono successe tante cose, alcune le possiamo vedere nel precedente post &ldquo;Chi sono?&rdquo;, ma altre no. Professionalmente parlando penso di aver colto l&rsquo;occasione di iniziare, e non è poco, ma penso che la strada sia ancora lunga e impegnativa per raggiungere i miei obiettivi.]]></description>
 </item><item>
     <title>Chi sono?</title>
-    <link>http://nciavarella.me/posts/chi-sono/</link>
+    <link>https://nciavarella.me/posts/chi-sono/</link>
     <pubDate>Wed, 27 Apr 2022 11:09:43 &#43;0200</pubDate>
     <author>Autore</author>
-    <guid>http://nciavarella.me/posts/chi-sono/</guid>
+    <guid>https://nciavarella.me/posts/chi-sono/</guid>
     <description><![CDATA[Sono un tecnico informatico a cui piace creare software e contenuti web. Negli anni ho avuto la fortuna di sviluppare e mantenere sistemi robotici ed elettronici. Nel 2021 ho deciso di aprire una Partita IVA per diventare freelance. Ho una bellissima Fiat 500, parlo italiano e inglese e ho una grande passione per la Formula 1.
 Cosa ho fatto Da quando ho terminato l&rsquo;ITIS nel 2016, diplomandomi come Perito informatico, ho deciso di proseguire gli studi con l&rsquo;obiettivo di arricchire le mie conoscenze.]]></description>
 </item></channel>

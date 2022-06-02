@@ -1,7 +1,7 @@
 ---
 title: "Nuovo Podcast"
 date: 2022-06-03T00:17:12+02:00
-draft: true
+draft: false
 ---
 
 ### Niccolò Racconta Pt. 2

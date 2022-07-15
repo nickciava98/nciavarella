@@ -5,10 +5,10 @@ title = 'nciavarella.me'
 theme = 'loveit'
 
 [params]
-  version = "0.2.X"
-  favicon = "/img/favicon.ico"
-  locale = "it-IT"
-   googleMapsAPIKey = "AIzaSyD734FF2PEKVS4E099p8J-T_4tQr5M009A"
+    version = "0.2.X"
+    favicon = "/img/favicon.ico"
+    locale = "it-IT"
+    googleMapsAPIKey = "AIzaSyD734FF2PEKVS4E099p8J-T_4tQr5M009A"
 
 [author]
     name = "Niccolò Ciavarella"
@@ -19,11 +19,11 @@ theme = 'loveit'
     url = "/menu/info"
     weight = 1
 
-[[menu.main]]
-    identifier = "listino"
-    name = "Listino"
-    url = "/menu/listino"
-    weight = 2
+#[[menu.main]]
+#    identifier = "listino"
+#    name = "Listino"
+#    url = "/menu/listino"
+#    weight = 2
 
 [[menu.main]]
     identifier = "contatti"

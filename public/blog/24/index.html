@@ -15,7 +15,7 @@
   <!-- Critical CSS -->
   
   <link href="https://www.nciavarella.me/scss/critical.min.css" rel="stylesheet" />
-
+  <link rel="manifest" href="/manifest.json">
   <!--Favicon-->
   <link rel="shortcut icon" href="images/favicon.ico" type="image/png" />
   <link rel="icon" href="images/favicon.ico" type="image/png" />
@@ -263,5 +263,20 @@ Lo spirito sarà quello di provare a non ripetere errori già fatti e affrontare
 <script src="https://www.nciavarella.me/js/form-handler.min.js"></script>
 
 <script src="https://www.nciavarella.me/js/script.min.js"></script>
+<script>
+  if('serviceWorker' in navigator) {
+      navigator.serviceWorker
+          .register('/sw.js', { scope: '/' })
+          .then(function(registration) {
+              
+          });
+
+      navigator.serviceWorker
+          .ready
+          .then(function(registration) {
+              
+          });
+  }
+</script>
   </body>
 </html>

@@ -1,32 +1,72 @@
-baseURL = 'https://nciavarella.me/'
-languageCode = 'en-us'
+# MAIN base
+baseURL = "https://www.nciavarella.me/"
+languageCode = "it-it"
 defaultContentLanguage = 'it'
-title = 'nciavarella.me'
-theme = 'loveit'
+title = "nciavarella.me"
+theme = "apsho"
+
+# Navigation Bar
+[[menu.main]]
+    name = "Home"
+    url = "#hero"
+    weight = 1
+[[menu.main]]
+    name = "Info"
+    url = "#feature"
+    weight = 2
+# [[menu.main]]
+#     name = "Servizi"
+#     url = "#faq"
+#     weight = 3
+[[menu.main]]
+    name = "Blog"
+    url = "#blog"
+    weight = 4
+
+# Footer Sitemap
+[[menu.sitemap]]
+    name = "Home"
+    url = "#"
+    weight = 1
+[[menu.sitemap]]
+    name = "Ultimo articolo"
+    url = "/blog"
+    weight = 2
+[[menu.sitemap]]
+    name = "Privacy Policy"
+    url = "/privacy"
+    weight = 3
+[[menu.sitemap]]
+    name = "Contatti"
+    url = "/contact"
+    weight = 4
+
+# Footer Address
+[params.address]
+address = "Via Serg. A. Padovano, 28 - 71013 S. Giovanni Rotondo (FG)"
+email = "niccolo.ciavarella@email.com"
+phone = "(+39) 331 743 8243"
+
+# Footer Social
+[params.social]
+facebook = "https://www.facebook.com/niccolo.ciavarella"
+instagram = "https://www.instagram.com/niccolo.ciavarella"
+twitter = "https://www.twitter.com/nickciava98"
+linkedin = "https://www.linkedin.com/in/nickciava98"
+github = "https://github.com/nickciava98"
 
 [params]
-    version = "0.2.X"
-    favicon = "/img/favicon.ico"
-    locale = "it-IT"
-    googleMapsAPIKey = "AIzaSyD734FF2PEKVS4E099p8J-T_4tQr5M009A"
 
-[author]
-    name = "Niccolò Ciavarella"
+# Header
+logo = "images/logo.png"
+formspreeURL = "https://formspree.io/mknyovwz"
+googleAnalytics = "UA-175025671-2"
 
- [[menu.main]]
-    identifier = "info"
-    name = "Info"
-    url = "/menu/info"
-    weight = 1
+# Footer
+footerTitle = "Iscriviti alla newsletter"
+copyright1 = "Tutti i diritti riservati."
+copyright2 = "Copyright © {year}, Niccolò Ciavarella."
+vat = "P. IVA: 12446050010"
 
-#[[menu.main]]
-#    identifier = "listino"
-#    name = "Listino"
-#    url = "/menu/listino"
-#    weight = 2
-
-[[menu.main]]
-    identifier = "contatti"
-    name = "Contatti"
-    url = "/menu/contatti"
-    weight = 3
+#contact
+email = "niccolo.ciavarella@email.com"

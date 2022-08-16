@@ -1,0 +1,14 @@
+---
+enable: true
+title: Chi sono
+description: Sono un tecnico informatico a cui piace creare software e contenuti web. Negli anni ho avuto la fortuna di sviluppare e mantenere sistemi robotici ed elettronici. Nel 2021 ho deciso di aprire una Partita IVA per diventare freelance. Ho una bellissima Fiat 500, parlo italiano e inglese e ho una grande passione per la Formula 1. 
+description2: 
+buttonText: Leggi l'articolo che ho scritto
+Title2nd: Tecologie utilizzate
+description2nd: Per lo sviluppo di soluzioni le preferenze cadono su
+image1: images/feature/feature-illustration-one.svg
+image2: images/feature/feature-illustration-two.svg
+checkItem:
+  - text: Python, Java, C per il backend
+  - text: HTML/CSS/JS per il frontend
+  - text: Odoo per sviluppo di soluzioni business

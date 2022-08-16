@@ -1,40 +1,69 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>nciavarella.me</title>
-        <link>https://nciavarella.me/</link>
-        <description>nciavarella.me</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 03 Jun 2022 00:17:12 &#43;0200</lastBuildDate>
-            <atom:link href="https://nciavarella.me/index.xml" rel="self" type="application/rss+xml" />
-        <item>
-    <title>Nuovo Podcast</title>
-    <link>https://nciavarella.me/posts/nuovo_podcast/</link>
-    <pubDate>Fri, 03 Jun 2022 00:17:12 &#43;0200</pubDate>
-    <author>Autore</author>
-    <guid>https://nciavarella.me/posts/nuovo_podcast/</guid>
-    <description><![CDATA[Niccolò Racconta Pt. 2 Eccoci qui, dopo due anni di stop. Sono successe molte cose tra l&rsquo;agosto del 2020 e ora. La disavventura dell&rsquo;incidente stradale, la disavventura del COVID e tutto quello che poi ne è conseguito, dunque penso che il primo episodio (pilota) debba essere incentrato su questo.
-Niccolò Racconta ritorna, ma questa volta con qualcosa di diverso, dove ci sarà una grande apertura al dialogo e al confronto con tutti voi e tutti coloro che vogliono seguire queste avventure.]]></description>
-</item><item>
-    <title>PL73</title>
-    <link>https://nciavarella.me/posts/pl73/</link>
-    <pubDate>Mon, 23 May 2022 09:24:56 &#43;0200</pubDate>
-    <author>Autore</author>
-    <guid>https://nciavarella.me/posts/pl73/</guid>
-    <description><![CDATA[Cos&rsquo;è PL73? Negli ultimi giorni ho voluto condividere sui miei social un post, non molto comprensibile dove raccontavo qualcosa sulla creazione di un nuovo linguaggio. Ma cosa significa questo? Per me significa molto, dato che sin da bambino ho avuto la possibilità di studiare la &ldquo;logica dei computer&rdquo;, a tratti semplice, ma assolutamente complessa.
-Il vero divertimento è dato sicuramente dalla matematica che c&rsquo;è dietro e da come un calcolatore è in grado di elaborare le informazioni e di come uno sviluppatore (attraverso un linguaggio di programmazione, ndr) può impartire comandi da far eseguire con lo scopo di risolvere un problema noto.]]></description>
-</item><item>
-    <title>24</title>
-    <link>https://nciavarella.me/posts/24/</link>
-    <pubDate>Tue, 10 May 2022 12:40:54 &#43;0200</pubDate>
-    <author>Autore</author>
-    <guid>https://nciavarella.me/posts/24/</guid>
-    <description><![CDATA[Oggi sono 24, sembrano pochi, ma credetemi, sono tanti. In ventiquattro anni credo di aver fatto tanto e di non aver fatto niente, questo perché assodato il fatto che ho avuto la possibilità di vivere esperienze significative, comunque in ventiquattro anni non si può pretendere di fare molto. Nell&rsquo;ultimo anno sono successe tante cose, alcune le possiamo vedere nel precedente post &ldquo;Chi sono?&rdquo;, ma altre no. Professionalmente parlando penso di aver colto l&rsquo;occasione di iniziare, e non è poco, ma penso che la strada sia ancora lunga e impegnativa per raggiungere i miei obiettivi.]]></description>
-</item><item>
-    <title>Chi sono?</title>
-    <link>https://nciavarella.me/posts/chi-sono/</link>
-    <pubDate>Wed, 27 Apr 2022 11:09:43 &#43;0200</pubDate>
-    <author>Autore</author>
-    <guid>https://nciavarella.me/posts/chi-sono/</guid>
-    <description><![CDATA[Sono un tecnico informatico a cui piace creare software e contenuti web. Negli anni ho avuto la fortuna di sviluppare e mantenere sistemi robotici ed elettronici. Nel 2021 ho deciso di aprire una Partita IVA per diventare freelance. Ho una bellissima Fiat 500, parlo italiano e inglese e ho una grande passione per la Formula 1.
-Cosa ho fatto Da quando ho terminato l&rsquo;ITIS nel 2016, diplomandomi come Perito informatico, ho deciso di proseguire gli studi con l&rsquo;obiettivo di arricchire le mie conoscenze.]]></description>
-</item></channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>nciavarella.me</title>
+    <link>https://www.nciavarella.me/</link>
+    <description>Recent content on nciavarella.me</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it-it</language>
+    <lastBuildDate>Fri, 03 Jun 2022 00:17:12 +0200</lastBuildDate><atom:link href="https://www.nciavarella.me/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nuovo Podcast</title>
+      <link>https://www.nciavarella.me/blog/nuovo_podcast/</link>
+      <pubDate>Fri, 03 Jun 2022 00:17:12 +0200</pubDate>
+      
+      <guid>https://www.nciavarella.me/blog/nuovo_podcast/</guid>
+      <description>Niccolò Racconta Pt. 2 Eccoci qui, dopo due anni di stop. Sono successe molte cose tra l&amp;rsquo;agosto del 2020 e ora. La disavventura dell&amp;rsquo;incidente stradale, la disavventura del COVID e tutto quello che poi ne è conseguito, dunque penso che il primo episodio (pilota) debba essere incentrato su questo.
+Niccolò Racconta ritorna, ma questa volta con qualcosa di diverso, dove ci sarà una grande apertura al dialogo e al confronto con tutti voi e tutti coloro che vogliono seguire queste avventure.</description>
+    </item>
+    
+    <item>
+      <title>PL73</title>
+      <link>https://www.nciavarella.me/blog/pl73/</link>
+      <pubDate>Mon, 23 May 2022 09:24:56 +0200</pubDate>
+      
+      <guid>https://www.nciavarella.me/blog/pl73/</guid>
+      <description>Cos&amp;rsquo;è PL73? Negli ultimi giorni ho voluto condividere sui miei social un post, non molto comprensibile dove raccontavo qualcosa sulla creazione di un nuovo linguaggio. Ma cosa significa questo? Per me significa molto, dato che sin da bambino ho avuto la possibilità di studiare la &amp;ldquo;logica dei computer&amp;rdquo;, a tratti semplice, ma assolutamente complessa.
+Il vero divertimento è dato sicuramente dalla matematica che c&amp;rsquo;è dietro e da come un calcolatore è in grado di elaborare le informazioni e di come uno sviluppatore (attraverso un linguaggio di programmazione, ndr) può impartire comandi da far eseguire con lo scopo di risolvere un problema noto.</description>
+    </item>
+    
+    <item>
+      <title>24</title>
+      <link>https://www.nciavarella.me/blog/24/</link>
+      <pubDate>Tue, 10 May 2022 12:40:54 +0200</pubDate>
+      
+      <guid>https://www.nciavarella.me/blog/24/</guid>
+      <description>Oggi sono 24, sembrano pochi, ma credetemi, sono tanti. In ventiquattro anni credo di aver fatto tanto e di non aver fatto niente, questo perché assodato il fatto che ho avuto la possibilità di vivere esperienze significative, comunque in ventiquattro anni non si può pretendere di fare molto. Nell&amp;rsquo;ultimo anno sono successe tante cose, alcune le possiamo vedere nel precedente post &amp;ldquo;Chi sono?&amp;rdquo;, ma altre no. Professionalmente parlando penso di aver colto l&amp;rsquo;occasione di iniziare, e non è poco, ma penso che la strada sia ancora lunga e impegnativa per raggiungere i miei obiettivi.</description>
+    </item>
+    
+    <item>
+      <title>Chi sono?</title>
+      <link>https://www.nciavarella.me/blog/chi-sono/</link>
+      <pubDate>Wed, 27 Apr 2022 11:09:43 +0200</pubDate>
+      
+      <guid>https://www.nciavarella.me/blog/chi-sono/</guid>
+      <description>Sono un tecnico informatico a cui piace creare software e contenuti web. Negli anni ho avuto la fortuna di sviluppare e mantenere sistemi robotici ed elettronici. Nel 2021 ho deciso di aprire una Partita IVA per diventare freelance. Ho una bellissima Fiat 500, parlo italiano e inglese e ho una grande passione per la Formula 1.
+Cosa ho fatto Da quando ho terminato l&amp;rsquo;ITIS nel 2016, diplomandomi come Perito informatico, ho deciso di proseguire gli studi con l&amp;rsquo;obiettivo di arricchire le mie conoscenze.</description>
+    </item>
+    
+    <item>
+      <title>Informazioni</title>
+      <link>https://www.nciavarella.me/menu/info/</link>
+      <pubDate>Wed, 27 Apr 2022 11:09:43 +0200</pubDate>
+      
+      <guid>https://www.nciavarella.me/menu/info/</guid>
+      <description>Niccolò Ciavarella Chi sono Sono un professionista in ambito informatico, specializzato nella creazione e gestione di software e applicativi. Possiedo esperienza nell&amp;rsquo;ambito elettronico relativo alla creazione di sistemi elettromeccanici e robotici. Sono titolare di Partita IVA con codice ATECO 62.09.09, possiedo le patenti di guida AM e B e sono automunito. Possiedo, inoltre, la certificazione IELTS Cambridge 5.5 per la lingua inglese.
+Cosa ho fatto Assistente di ricerca al SIRSLab - Università degli Studi di Siena Ricerca, sviluppo, manutenzione e creazione di dispositivi robotici per l’utilizzo in campo socio-sanitario con priorità per persone affette da disabilità motorie e funzionali.</description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>https://www.nciavarella.me/privacy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.nciavarella.me/privacy/</guid>
+      <description>I - INFORMAZIONI RELATIVE ALLA PRIVACY POLICY DEL SITO In questa sezione sono contenute le informazioni relative alle modalità di gestione di nciavarella.me in riferimento alle trattamento dei dati degli utenti del sito stesso. La presente informativa ha valore anche ai fini dell’art. 13 del D.lgs. n. 196/2003, Codice in materia di protezione dei dati personali, e ai fini dell’art. 13 del Regolamento UE n. 2016/679, relativo alla protezione delle persone fisiche con riguardo al trattamento dei dati personali nonché alla libera circolazione di tali dati, per i soggetti che interagiscono con nciavarella.</description>
+    </item>
+    
+  </channel>
 </rss>

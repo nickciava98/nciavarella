@@ -21,13 +21,14 @@
   <link rel="apple-touch-icon" href="images/apple-favicon.ico" />
   {{ with site.Params.googleAnalytics }}
   {{ "<!-- Google Analytics -->" | safeHTML }}
-  <script async src="https://www.googletagmanager.com/gtag/js?id={{ . }}"></script>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-SWRXR7JCFV"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
 
-    gtag('config', '{{ . }}');
+    gtag('config', 'G-SWRXR7JCFV');
   </script>
 	{{ end }}
 </head>

@@ -33,21 +33,17 @@ theme = "apsho"
     url = "/blog"
     weight = 2
 [[menu.sitemap]]
-    name = "Trasparenza"
-    url = "/transparency"
-    weight = 3
-[[menu.sitemap]]
     name = "Privacy Policy"
     url = "/privacy"
-    weight = 4
+    weight = 3
 [[menu.sitemap]]
     name = "Contatti"
     url = "/contact"
-    weight = 5
+    weight = 4
 
 # Footer Address
 [params.address]
-address = "Via Serg. A. Padovano, 28 - 71013 S. Giovanni Rotondo (FG)"
+address = "Via San Bonaventura, 15 - 71013 S. Giovanni Rotondo (FG)"
 email = "niccolo.ciavarella@email.com"
 phone = "(+39) 331 743 8243"
 
